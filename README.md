@@ -14,7 +14,10 @@
   <p align="center">Home Page</p>
 </div>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 90660df (Changes in redame file)
 
 ## Susbcribe:
 [https://www.youtube.com/@cloudchamp?
